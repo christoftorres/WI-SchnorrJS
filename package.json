@@ -1,0 +1,15 @@
+{
+  "name": "WI-SchnorrJS",
+  "version": "0.0.1",
+  "description": "WI-SchnorrJS is a partially blind WI-Schnorr signature scheme implementation in JavaScript.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christof Torres",
+  "license": "GNU GPLv3",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "node-jsbn": "^0.1.1"
+  }
+}
